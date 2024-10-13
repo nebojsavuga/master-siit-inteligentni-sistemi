@@ -1,6 +1,6 @@
 ## Semanticki veb
 
-    Nastavak na SBNZ, projekat u dvoje Boban/Slobodan. 
+    Nastavak na SBNZ, projekat u dvoje Boban/Slobodan.
     Sparql, xml, OWL, rdf. Distribuirano znanje.
 
 ## Neuronske mreze
