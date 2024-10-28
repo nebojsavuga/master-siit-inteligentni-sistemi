@@ -1,0 +1,156 @@
+417,213 2015 Analiza marketinga banke.pdf
+ 74,096 2015 Detekcija jezika teksta.pdf
+ 82,083 2015 Kategorizacija teksta po temi Huffington Post, Daily Mail, Reuters.pdf
+438,686 2015 Osiguranici klasifikacija u rizicne grupe.pdf
+284,042 2015 Patenti Klasterovanje.pdf
+155,319 2015 Poredjenje Learning To Rank algoritama.pdf
+ 57,187 2015 Predikcija berze na osnovu novinskih clanaka.pdf
+583,067 2015 Predikcija Bikesharing 1.pdf
+267,475 2015 Predikcija Bikesharing.pdf
+761,133 2015 Predikcija broja komentara na vest objavljenu na domacim portalima.pdf
+364,030 2015 Predikcija cene akcija Apple.pdf
+119,567 2015 Predikcija ishoda Fantasy Football.pdf
+417,069 2015 Predikcija ishoda meca u Dota2.pdf
+811,029 2015 Predikcija ishoda na Keeneland trkama konja.pdf
+626,977 2015 Predikcija ishoda NBA utakmica 1.pdf
+576,498 2015 Predikcija ishoda NBA utakmica 2.pdf
+705,132 2015 Predikcija ishoda NBA utakmica.pdf
+378,658 2015 Predikcija ishoda teniskih meceva.pdf
+803,592 2015 Predikcija kasnjenja avionskih letova.pdf
+430,579 2015 Predikcija ljudske aktivnosti na osnovu senzora mobilnog telefona.pdf
+240,722 2015 Predikcija NFL fantasy poena.pdf
+564,400 2015 Predikcija popularnosti stranica na Wikipediji.pdf
+270,614 2015 Predikcija vremena dolaska taxi vozila.pdf
+257,045 2015 Predikcija zanra muzicke numere.pdf
+351,653 2015 Sentiment analiza recenzija filmova IMDB spajanje vise izvora podataka.pdf
+298,705 2015 Sentiment analiza recenzija filmova IMDB.pdf
+558,324 2015 Sentiment analiza recenzija filmova TheMovieDB API.pdf
+ 99,375 2015 Sentiment analiza Twitter podataka.pdf
+687,200 2016 Analiza komentara na YouTube.pdf
+715,488 2016 Analiza podataka o trudnocama.pdf
+542,651 2016 Analiza saobracajnih nesreca.pdf
+497,386 2016 Klasterovanje heroja LOL.pdf
+588,818 2016 Komparativna studija Collaborative filtering algoritama u sistemima za preporuku.pdf
+782,637 2016 Konzumacija alkohola medju mladima.pdf
+378,786 2016 Predikcija cene nekretnina.pdf
+992,853 2016 Predikcija Churn (musterije koje ce napustiti kompaniju).pdf
+ 86,590 2016 Predikcija ishoda fudbalskih utakmica.pdf
+885,059 2016 Predikcija lokacije sledece rezervacije Airbnb.pdf
+480,993 2016 Predikcija ranka filmova na IMDB.pdf
+469,960 2016 Predikcija zanra muzicke numere.pdf
+660,318 2016 Predvidjanje akademskog uspeha studenta.pdf
+421,883 2016 Predvidjanje zarade filmova IMDB.pdf
+820,079 2016 Prepoznavanje tweetova o Apache Cassandra.pdf
+813,985 2016 Procena broja stanovnika naselja u Srbiji.pdf
+219,603 2016 Sentiment analiza Tweetova o avionskim letovima.pdf
+490,991 2016 Sentiment analiza Twitter podataka.pdf
+111,450 2016 Sistem za preporuku muzike.pdf
+647,295 2016 Sistem za preporuku restorana YELP.pdf
+534,864 2017 Analiza i predikcija baksisa taksista u Njujorku.pdf
+618,527 2017 Analiza i predvidanje rezultata studenata na platformi za e-ucenje.pdf
+352,840 2017 Analiza kasnjenja avionskih letova.pdf
+660,768 2017 Analiza kriminalnih aktivnosti Cikago 1.pdf
+799,073 2017 Analiza kriminalnih aktivnosti Cikago.pdf
+577,630 2017 Analiza marketing kampanje upisa na Fakultetu tehnickih nauka.pdf
+685,476 2017 Analiza podataka iz igre Dota 2.pdf
+288,917 2017 Analiza saobracajnih nesreca.pdf
+935,818 2017 Analiza teroristickih napada.pdf
+660,964 2017 Chronic kidney disease.pdf
+756,486 2017 Identifikacija trendova popularnosti programskih jezika StackOverflow.pdf
+613,519 2017 Mushroom classification.pdf
+732,600 2017 Predikcija autora knjige na osnovu leksicke analize teksta.pdf
+533,823 2017 Predikcija cena kriptovaluta.pdf
+128,053 2017 Predikcija cene nekretnine na osnovu teksta oglasa, slika i geografske lokacije nekretnine.pdf
+ 64,292 2017 Predikcija indeksa korisnosti igraca u Euroligi.pdf
+718,598 2017 Predikcija ishoda marketinske kampanje banke.pdf
+156,929 2017 Predikcija pobede na Eurosongu.pdf
+187,793 2017 Predikcija pozicije kosarkasa NBA.pdf
+138,965 2017 Predikcija razvoja sljunkara.pdf
+956,375 2017 Predikcija rejtinga filma IMDB.pdf
+ 76,768 2017 Predikcija SMS spama.pdf
+112,328 2017 Predikcija tipa licnosti na osnovu MBTI.pdf
+114,869 2017 Predikcija uspeha tenisera.pdf
+997,724 2017 Predikcija zarade filmova.pdf
+ 86,006 2017 Prepoznavanje crteza konvolutivnom neuronskom mrezom upotrebom AWS-a i Spark.pdf
+419,485 2017 Prepoznavanje sadnica.pdf
+130,722 2017 Sentiment analiza recenzija na Amazonu.pdf
+161,258 2017 Speed Dating predikcija.pdf
+ 66,591 2017 Tviter sentiment analiza.pdf
+354,364 2017 Yoda Chatbot.pdf
+703,180 2018 Analiza Ethereum kriptovalute.pdf
+102,063 2018 Analiza javnih GitHub repozitorijuma1.pdf
+217,807 2018 Analiza uticaja vremenskih prilika na raspolozenje ljudi na osnovu emocija tvitova.pdf
+392,929 2018 Detekcija raka koze na osnovu dermoskopskih snimaka.pdf
+154,165 2018 Detekcija sarkazma u tekstu.pdf
+100,983 2018 Izdvajanje stavki menija iz donesi recenzija.pdf
+571,541 2018 Odredjivanje faktora koji dovode do saobracajne nesrece.pdf
+ 77,097 2018 Predikcija citljivosti programskog koda.pdf
+134,234 2018 Predikcija demencije na osnovu MRI snimaka i rezultata klinickih testova.pdf
+106,549 2018 Predikcija i klasterovanje - Psihologija - predikcija aspekata licnosti.pdf
+192,766 2018 Predikcija ishoda NBA utakmica.pdf
+738,867 2018 Predikcija kvaliteta vina.pdf
+1,395,324 2018 Predikcija narednog teroristickog napada.pdf
+543,513 2018 Predikcija popularnosti knjiga.pdf
+671,716 2018 Predikcija rejtinga u Dota2.pdf
+678,459 2018 Predikcija uspesnost zemalja na Olimpijskim igrama na osnovu GDP-a.pdf
+602,886 2018 Predikcija vikend zarade filmova.pdf
+328,894 2018 Predikcija-indeksa-korisnosti-ABA-liga.pdf
+134,849 2018 Sentiment analiza donesi recenzija.pdf
+712,552 2018 Sistem za preporuku filmova.pdf
+217,190 2019 Analiza faktora koji uticu na stope samoubistava .pdf
+708,609 2019 Analiza medusobnih uticaja ekonomskih pokazatelja drzave i oruzanih sukoba.pdf
+270,135 2019 Analiza sumskih pozara Brazila Predlog projekta.pdf
+279,176 2019 Detekcija respiratornih bolesti na osnovu analize disajnih zvukova.pdf
+ 88,020 2019 NER na srpskom u pravnom domenu.pdf
+ 86,219 2019 Open Domain Multi-hop Question Answering.pdf
+350,376 2019 Predikcija cene poljoprivrednih proizvoda.pdf
+633,978 2019 Predikcija cene polovnih automobila.pdf
+255,423 2019 Predikcija cijene smjestaja na Airbnb-u.pdf
+118,797 2019 Predikcija dijabetesa.pdf
+366,855 2019 Predikcija futsal meceva.pdf
+295,977 2019 Predikcija najbolje pozicije fudbalskog igraca.pdf
+151,931 2019 Predikcija popularnosti posta na 9gag (obrada slike i teksta).pdf
+172,164 2019 Predikcija subjektivnih aspekata pitanja i odgovora_1.pdf
+441,453 2019 Predikcija utakmica Premier lige.pdf
+269,322 2019 Predikcija vremena koje ce video provesti na YouTube trending.pdf
+2021 Предикција ризичности инвестиције у криптовалуте
+2021 Predikcija cena spekulativnih kriptovaluta upotrebom Support Vector Regression algoritma
+2021 Одређивање расе мачака и паса
+2021 Analiza objavljenih članaka u cilju utvrdivanja da li je vest istinita ili lažna
+2021 Analiza IT firmi na osnovu dostupnih podataka sa platformi za oglasavanje poslova
+2021 Preporuka vesti uzimajuci u obzir da su vesti istinite MIND: Microsoft News Recommendation Dataset
+2021 Analiza globalnog zagrevanja i uticaj na porast nivoa mora
+2021 Одређивање положаја на мапи политичког спектра корисника друштвене мреже "Twitter" на основу садржаја који се налази на његовој профилној страници
+2021 Analiza zagađenosti vazduha u gradovima
+2021 Predikcija da li se tweet odnosi na pravu katastrofu ili ne
+2021 Predviđanje rizika izumiranja životinjskih vrsta
+2021 Predikcija ishoda profesionalnih timskih mečeva u igrici CS:GO
+2021 Analiza faktora koji utiču na globalni osećaj sreće
+2021 Human Activity Recognition
+2021 Detekcija indikatora loše dizajniranog koda upotrebom graf neuronskih mreža
+2021 Detekcija zagađenosti (vazduh, voda, zemljište)
+2021 Predikcija vremensih uslova na Marsu
+2021 Predviđanje/utvrđivanje rizika pojave požara u prirodi na osnovu istorijskih podataka o vremenskim i klimatskim uslovima, sateliski detektovanim termalnim anomalijama i podacima o pokrivenosti Zemlje šumom
+2021 Predikcija zemljotresa
+2021 Klasifikacija teksta iz domena finansijskih vesti
+2021 Analiza tekstova pesama sa Evrovizije
+2021 Chat bot
+2021 Detekcija sarkazma
+2021 Detektovanje gramatički neispravnih rečenica
+2021 Kategorizacija alata po primeni pomoću mašinskog učenja
+2021 Klasifikacija komentara po različitim tipovima toksičnosti
+2021 Predikcija cena avionskih karata
+2021 Predikcija cena nekratnina na osnovu odabranih varijabli u Njujorku
+2021 Predikcija cene automobila
+2021 Predikcija cene goriva
+2021 Predikcija cene kozmetičkih proizvoda
+2021 Predikcija ocene aplikacije na Google store-u na osnovu komentara
+2021 Predikcija popularnosti Instagram posta
+2021 Predikcija potrošnje goriva automobila
+2021 Predikcija žanra filma na osnovu karakteristika
+2021 Predikcija žanra filmova
+2021 Predviđanje popularnosti prodajnog objekta korišćenjem geoprostorne analitike
+2021 Sentiment analiza Twitter podataka o COVID-19 vakcinama
+2021 Sentiment analiza komentara objavljenih na sajtu za kupovinu zenske odeće
+2021 Sentiment analiza recenzija hotela na srpskom i engleskom jeziku i izdvajanje aspekata
+2021 Predikcija posećenosti NBA utakmica
