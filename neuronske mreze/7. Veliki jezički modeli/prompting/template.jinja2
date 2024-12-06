@@ -1,0 +1,27 @@
+Želim da klasifikuješ tekst za mene.
+Pogledaj ispod sve moguće labele i njihove opise.
+
+{% for item in labels %}
+"""
+opis: {{ item.opis }}
+labela: {{ item.labela }}
+"""
+{% endfor %}
+
+U nastavku pogledaj nekoliko primera: 
+
+{% for item in examples %}
+"""
+tekst: {{ item.tekst }}
+labela: {{ item.labela }}
+"""
+{% endfor %}
+
+
+Evo teksta koji treba klasifikovati:
+{% for item in samples %}
+"""
+tekst: {{ item.tekst }}
+labela: 
+"""
+{% endfor %}
